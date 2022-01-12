@@ -335,6 +335,12 @@ body {
         width: 580px;
     }
 
+    .img-nav {
+        position: absolute;
+        height: 1025px;
+        width: 1980px;
+    }
+
     .car-box-m {
         width: 461px;
         height: 252px;
@@ -399,6 +405,12 @@ body {
         padding: 45px 0 0 175px;
     }
 
+    .img-nav {
+        position: absolute;
+        height: 950px;
+        width: 1880px;
+    }
+
     .images .img-1 img {
         width: 550px;
     }
@@ -432,6 +444,12 @@ body {
     .main .right .heading h1 {
         padding: 0px 0 25px 0;  
         font-size: 15px;
+    }
+
+    .img-nav {
+        position: absolute;
+        height: 967px;
+        width: 1680px;
     }
 
     .car-box-m {
@@ -498,6 +516,12 @@ body {
         padding: 26px 0 0 155px;
     }
 
+    .img-nav {
+        position: absolute;
+        height: 925px;
+        width: 1440px;
+    }
+
     .box-p p {
         padding: 46px 0;
     }
@@ -548,6 +572,12 @@ body {
         width: 425px;
     }
 
+    .img-nav {
+        position: absolute;
+        height: 900px;
+        width: 1366px;
+    }
+
     .nav-imgs img {
         height: 83px;
     }
@@ -559,6 +589,12 @@ body {
         right: 71px;
         z-index: 9;
         top: 111px;
+    }
+
+    .img-nav {
+        position: absolute;
+        height: 875px;
+        width: 1280px;
     }
 
     .car-box-m-1 {
@@ -632,6 +668,12 @@ body {
         padding: 23px 0 0 130px;
     }
 
+    .img-nav {
+        position: absolute;
+        height: 850px;
+        width: 1000px;
+    }
+
     .images .img-1 img {
         width: 375px;
     }
@@ -683,6 +725,12 @@ body {
 
     .images {
         padding: 7px 0 0 118px;
+    }
+
+    .img-nav {
+        position: absolute;
+        height: 800px;
+        width: 1024px;
     }
 
     .car-box-m {
